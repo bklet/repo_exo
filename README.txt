@@ -1,0 +1,1 @@
+Ce projet est un exercice de création d'un repository git contenant 4 commits distincts
